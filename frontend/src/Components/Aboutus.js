@@ -25,7 +25,7 @@ const AboutComponent = forwardRef((props, ref) => {
             <div className="row justify-content-center">
               <div className="col-12 col-xl-11">
                 <p className="lead mb-1 aboutfont">
-                Our Sports Club, established in [year], is a nonprofit organization passionately dedicated to fostering a love for sports and physical activity within our community. Through a diverse range of events, including tournaments, sports clinics, festivals, interclub competitions, and community runs, we aim to promote sportsmanship, teamwork, and an active lifestyle. We provide coaching and support to our members, helping them achieve their athletic goals. Join us in our mission to embrace sports excellence and promote a healthy way of life."
+                Our Sport Club, established in [year], is a nonprofit organization passionately dedicated to fostering a love for sports and physical activity within our community. Through a diverse range of events, including tournaments, sports clinics, festivals, interclub competitions, and community runs, we aim to promote sportsmanship, teamwork, and an active lifestyle. We provide coaching and support to our members, helping them achieve their athletic goals. Join us in our mission to embrace sports excellence and promote a healthy way of life."
                 </p>
               </div>
             </div>
